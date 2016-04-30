@@ -33,8 +33,8 @@
         "name": "icon.png"
       },
       "main.js": {
-        "previousModTime": 1461709093000,
-        "modified": 1461709093000,
+        "previousModTime": 1462034365000,
+        "modified": 1462034365000,
         "seen": true,
         "name": "main.js"
       },
@@ -69,8 +69,8 @@
         "name": "IntelGalileo.Nodejs.HttpRequestsSample.xdk"
       },
       "IntelGalileo.Nodejs.HttpRequestsSample.xdke": {
-        "previousModTime": 1461709054000,
-        "modified": 1461709054000,
+        "previousModTime": 1462020719000,
+        "modified": 1462020719000,
         "seen": true,
         "name": "IntelGalileo.Nodejs.HttpRequestsSample.xdke"
       },
@@ -83,7 +83,7 @@
     },
     "boardFileStatus": {
       "main.js": {
-        "previousModTime": 1461709093937
+        "previousModTime": 1462034366715
       }
     }
   }
